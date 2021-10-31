@@ -5,3 +5,5 @@
 Урок 2. Профилирование пользователей. Сегментация: unsupervised learning (clustering, LDA/ARTM), supervised (multi/binary classification)
 
 Урок 3. Связь бизнес-показателей и DS-метрик
+
+Урок 4. 
